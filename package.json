@@ -1,0 +1,12 @@
+{
+  "name": "relax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://apairoflevis.github.io/relax",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Andrew",
+  "license": "ISC"
+}
